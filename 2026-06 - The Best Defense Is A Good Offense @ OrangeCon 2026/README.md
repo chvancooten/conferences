@@ -2,6 +2,10 @@
 
 __Presented at OrangeCon 2026 in Amsterdam__
 
+## Recording available
+
+[Youtube](https://youtu.be/SShEOZBLRhQ)
+
 
 ## Abstract
 While attackers scale their operations through automation, many defenders remain trapped in a reactive, manual cycle of fire-fighting. To regain the advantage, we must evolve from periodic "point-in-time" assessments to a model of continuous assurance. This talk introduces Continuous Purple Teaming (CPT): a pragmatic approach to security testing that uses repeatable attack simulations as a regression test for your defenses.
