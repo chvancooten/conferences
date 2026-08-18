@@ -2,6 +2,9 @@
 
 __Presented at X33fcon 2026 in Gdynia, Poland__
 
+## Recording available
+
+[Youtube](https://youtu.be/18bUPKqQfuE)
 
 ## Description
 Attackers are scaling their operations faster than ever, leaving many defenders stuck in a reactive and fire‑fighting posture. Automation on the defensive side is now required to move from one‑off tests to continuous assurance of your controls. This talk introduces "Continuous Purple Teaming" as a way to evolve from periodic manual exercises to a repeatable process that exposes real defensive gaps and verifies that fixes actually work.
