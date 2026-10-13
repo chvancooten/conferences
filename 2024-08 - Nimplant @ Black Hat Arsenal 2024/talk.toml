@@ -1,6 +1,7 @@
 title = "Nimplant"
 subtitle = "A light-weight first-stage implant and C2 written in Python, Nim, and Rust"
 event = "Black Hat Arsenal"
+location = "Las Vegas, United States"
 date = "2024-08"
 video = "https://youtu.be/9xQGjdPyDJc"
 slides = "Nimplant-BHUS24-Arsenal.pdf"
